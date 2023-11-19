@@ -8,6 +8,7 @@
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -15,6 +16,11 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/org/hw01/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/hw01/ServerWindow.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/hw01/log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw02/client/ClientView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar01/tictactoe/GameWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar01/tictactoe/SettingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hw02/repo/FileRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hw02/repo/FileRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/hw02/repo/IRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/hw02/repo/IRepo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +35,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,10 +63,16 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/YandexDisk/Личное/GeekBrains/Projects/IdeaProjects/StudyJDK"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\StudyJDK\src\main\java\org\hw02\repo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.org.hw02.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hw01.Main" />
       <module name="StudyJDK" />
@@ -73,8 +86,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.hw02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hw02.Main" />
+      <module name="StudyJDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.hw02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.seminar01.tictactoe.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.seminar01.tictactoe.Main" />
+      <module name="StudyJDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.seminar01.tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.hw02.Main" />
+        <item itemvalue="Application.org.seminar01.tictactoe.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
