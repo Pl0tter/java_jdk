@@ -4,8 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b167d018-187d-45d6-b55f-d5c26654846d" name="Changes" comment="add Homework 03">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_11_2023_22_47__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_11_2023_22_47__Changes_.xml" afterDir="false" />
+    <list default="true" id="b167d018-187d-45d6-b55f-d5c26654846d" name="Changes" comment="add Seminar and Homework 04">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw05/Fork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw05/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw05/Philosopher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/hw05/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex01/Friend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex01/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex02/MyProgramState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex02/MyThread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex02/MyThread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex03/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/seminar05/ex03/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_19_11_2023_22_47__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +42,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="121e9cc1-21e5-48e0-9652-3f3e02142749" />
+        <option name="url" value="https://github.com/Pl0tter/java_jdk.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -56,45 +82,22 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.hw05" />
+      <recent name="org.seminar05.ex03" />
+      <recent name="org.seminar05.ex02" />
       <recent name="org.hw02.client" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\YandexDisk\Личное\GeekBrains\Projects\IdeaProjects\StudyJDK\src\main\java\org\hw02\repo" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.org.hw04.Main">
+  <component name="RunManager" selected="Application.org.hw05.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw01.Main" />
+      <option name="MAIN_CLASS_NAME" value="org.seminar05.ex02.Main" />
       <module name="StudyJDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.hw01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.hw02.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw02.Main" />
-      <module name="StudyJDK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hw02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.hw03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.hw03.Main" />
-      <module name="StudyJDK" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.hw03.*" />
+          <option name="PATTERN" value="org.seminar05.ex02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +118,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.seminar01.tictactoe.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.seminar01.tictactoe.Main" />
+    <configuration name="org.hw05.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hw05.Main" />
       <module name="StudyJDK" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.seminar01.tictactoe.*" />
+          <option name="PATTERN" value="org.hw05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.seminar05.ex01.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.seminar05.ex01.Main" />
+      <module name="StudyJDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.seminar05.ex01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.seminar05.ex03.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.seminar05.ex03.Main" />
+      <module name="StudyJDK" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.seminar05.ex03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.org.hw04.Main" />
-        <item itemvalue="Application.org.hw03.Main" />
-        <item itemvalue="Application.org.hw02.Main" />
-        <item itemvalue="Application.org.seminar01.tictactoe.Main" />
+        <item itemvalue="Application.org.hw05.Main" />
+        <item itemvalue="Application.org.seminar05.ex03.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.org.seminar05.ex01.Main" />
+        <item itemvalue="Application.org.hw04.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1700509747087</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add Seminar and Homework 04">
+      <created>1700729799870</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700729799871</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +223,7 @@
     <MESSAGE value="add Seminar 01 and fix Homework 01" />
     <MESSAGE value="add Homework 02" />
     <MESSAGE value="add Homework 03" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Homework 03" />
+    <MESSAGE value="add Seminar and Homework 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Seminar and Homework 04" />
   </component>
 </project>
